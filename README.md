@@ -1,6 +1,8 @@
-<h1 align="center"><a href="https://t.me/bitfancy" target="_blank">Hi 👋, I'm a Blockchain Engineer 👈🏻</a></h1>
+# solana crypto trading bot
 
-# Decentralized-Exchange-Trading-Scripts
+Welcome to the Solana Crypto Trading Bot repository! This project aims to provide a comprehensive solution for trading on the Solana blockchain. Whether you're a seasoned trader or just starting out, this bot can help you automate your trading strategies.
+
+## Decentralized-Exchange-Trading-Scripts
 
 Here, you'll find a collection of useful scripts designed to automate trading on various decentralized exchanges (DEX). These tools have been meticulously crafted from the ground up, with a focus on building a robust suite of degen-tools.
 
@@ -27,13 +29,6 @@ The more complex and intricate the idea, the better. I love a good challenge!
 
   Have me as a mentor , where I offer my knowledgeable experience and strategies in trading cryptocurrencies. Whether you're a beginner looking to understand the basics or an 
   experienced enthusiast aiming to enhance your skills, I'm here to help you on your crypto journey. Contact for more information.
-
-
-
-## Contact Information
-
-- Email: bitbanana717@gmail.com
-- Telegram: [Let's Chat](https://t.me/bitfancy)
 
 ## Support My Work
 If these scripts have helped you, please consider supporting my work. Your support will help me continue to develop these tools and create more useful resources for the crypto community.
